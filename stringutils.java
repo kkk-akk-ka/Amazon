@@ -1,1 +1,1 @@
-Hello am working for java
+hello from string
